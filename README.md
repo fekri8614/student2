@@ -12,11 +12,11 @@ Used kotlin coroutines components/(androix)
 *in `build.gradle( :app)`:*
 
     android {
-    ...
+        ...
     
-     buildFeatures {
-         viewBinding true
-     }
+        buildFeatures {
+            viewBinding true
+        }
      
     }
     
