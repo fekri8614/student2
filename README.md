@@ -44,5 +44,7 @@ Used kotlin coroutines components/(androix)
     }
     
 ## Info:
-I used `2.4.1` version for lifecycle-runitime/viewmodel. `2.6.1` is avilable but, I couldn't use it (couldn't download and install on dependencies)
+I used `2.4.1` version for lifecycle-runitime/viewmodel. 
+
+`2.6.1` is avilable but, I couldn't use it (couldn't set on project dependencies)
     
